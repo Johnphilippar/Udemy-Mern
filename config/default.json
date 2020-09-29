@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://Jpparhehe:Jpparhehe@devconnector.apg5k.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "5daec59792240b22e4a8",
+    "githubSecret":"207b367e0d1973e52065ee48323190926b100bfc"
+}
